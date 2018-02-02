@@ -1,3 +1,1 @@
 # WeatherApp
-
-### Using Ionic
